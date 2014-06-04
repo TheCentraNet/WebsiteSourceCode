@@ -10,6 +10,7 @@ Index Page
 </div>
 
 <table style="background-color:#ffffff; margin-top:.10px; width:400; border:1px solid #00000;">
+<div style="width:1335px;height:100px;border:6px groove white;">
 <tr><td>
 <center>
 logo
