@@ -9,7 +9,7 @@ Index Page
 <br />
 </div>
 
-<table style="background-color:#ffffff; margin-top:300px; width:400px; border:1px solid #00000;">
+<table style="background-color:#ffffff; margin-top:300px; width:.10px; border:1px solid #00000;">
 <tr><td>
 <center>
 logo
