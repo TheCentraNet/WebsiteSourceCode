@@ -3,20 +3,13 @@ Index Page
 <html>
 <head>
 <title>TheCentraNet</title>
-<link rel="stylesheet" type="text/css" src="style.css">
+<link rel="stylesheet" type="text/css" href="style.css">
 </head>
-<body style="background:#C8C8C8;>
-<center>
-<div style="background-color:#C8C8C8;">
-<table style="background-color:#ffffff; margin-top:.10px; width:400; border:1px solid #00000;">
-<div style="width:1335px;height:100px;border:6px groove white;">
-<tr><td>
-<center>
-logo
-</center>
-</td>
-</tr>
-</table>
-</center>
+<body>
+<div id="head">
+    <center>
+    <table width="95%"><tr><td width="25%">Logo</td><td wdith="25%" align="right"><a href="signin.php" class="button">Sign In</a></td></tds></tr></table></center>
+</div>
+<div id="main"></div>
 </body>
 </html>
