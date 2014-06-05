@@ -1,0 +1,36 @@
+Style
+=================
+* {
+    margin:0px;
+    padding:0px;
+}
+body {
+    background-color:#168CCC;
+}
+#head {
+    width:100%;
+    background-color:#ffffff;
+}
+.button {
+		-webkit-border-radius:5px;
+		-moz-border-radius:5px;
+		border-radius:5px;
+		background:#168CCC;
+		padding-right:14px;
+		padding-left:15px;
+		padding-top:9px;
+		padding-bottom:10px;
+		border:1px solid #cccccc;
+		cursor:pointer;
+		font-size:17px;
+		font-weight:bold;
+		color:#ffffff;
+		-webkit-transition:background 1s ease;
+		-ms-transition:color 1s ease;
+		-moz-transition:color 1s ease;
+		-o-transition:color 1s ease;
+		text-decoration:none;
+		}
+		.button:hover {
+		background:#1638CC;
+		}
