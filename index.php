@@ -11,7 +11,7 @@
 <div id="main">
 <center>
     <table width="85%">
-<tr><td><div style="margin-top:90px;"><div style="width:500px;margin-top:0px;height:300px;"><font style="color:#fff;font:30pt solid;font-family:Georgia;font-weight:bold;"><center><i>Unifying The Internet</i></center></font><div style="background-color:#ffffff;color:#168CCC;-webkit-border-radius:15px;-moz-border-radius:15px;border-radius:15px;padding-top:10px;"><ul style="padding-left:50px;font-weight:bold;font-size:18pt;"><li style="padding-bottom:30px;">All of your social networks - in one place</li><li style="padding-bottom:30px;">Completly Secure</li><li style="padding-bottom:30px;">Completely Customizable</li><li>Custom Notifications</li></ul></div></div></div></td><td align="right" width="400">
+<tr><td><div style="margin-top:90px;"><div style="width:500px;margin-top:0px;height:300px;"><font style="color:#fff;font:30pt solid;font-family:Georgia;font-weight:bold; padding-bottom:0px;"><center><i>Unifying The Internet</i></font><br /><br /><div style="width:450px;background-color:#ffffff;color:#168CCC;-webkit-border-radius:15px;-moz-border-radius:15px;border-radius:15px;padding-top:10px;font-align:left;"><font style="text-align:left;"><ul style="padding-left:50px;font-weight:bold;font-size:18pt;"><li style="padding-bottom:30px;">All of your social networks - in one place</li><li style="padding-bottom:30px;">Completly Secure</li><li style="padding-bottom:30px;">Completely Customizable</li><li>Custom Notifications</li></ul></div></div></div></td><td align="right" width="400">
     <div id="login">
         <form>
         <table border="0" width="375" style="padding-top:20px;padding-bottom:20px;padding-right:20px;"><tr><td colspan="2"><b>Username<br /></b>
