@@ -1,36 +1,64 @@
-Style
-=================
 * {
     margin:0px;
     padding:0px;
 }
 body {
-    background-color:#168CCC;
+    background-color:#ffffff;
 }
 #head {
     width:100%;
     background-color:#ffffff;
 }
+#main {
+    height:500px;   
+    background-color:#168CCC;
+}
 .button {
-		-webkit-border-radius:5px;
-		-moz-border-radius:5px;
-		border-radius:5px;
-		background:#168CCC;
-		padding-right:14px;
-		padding-left:15px;
-		padding-top:9px;
-		padding-bottom:10px;
-		border:1px solid #cccccc;
-		cursor:pointer;
-		font-size:17px;
-		font-weight:bold;
-		color:#ffffff;
-		-webkit-transition:background 1s ease;
-		-ms-transition:color 1s ease;
-		-moz-transition:color 1s ease;
-		-o-transition:color 1s ease;
-		text-decoration:none;
-		}
-		.button:hover {
-		background:#1638CC;
-		}
+    -webkit-border-radius:5px;
+    -moz-border-radius:5px;
+	border-radius:5px;
+	background:#168CCC;
+	padding-right:14px;
+    padding-left:15px;
+    padding-top:9px;
+	padding-bottom:10px;
+    <!---border:1px solid #cccccc; ---->
+    cursor:pointer;
+	font-size:17px;
+    font-weight:bold;
+	color:#ffffff;
+	-webkit-transition:background 1s ease;
+	-ms-transition:color 1s ease;
+	-moz-transition:color 1s ease;
+	-o-transition:color 1s ease;
+	text-decoration:none;
+}
+.button:hover {
+    background:#1638CC;
+    cursor:pointer;
+}
+#login {
+    background-color:#ffffff;
+    width:400px;
+    margin-top:90px;
+    -webkit-border-radius:15px;
+    -moz-border-radius:15px;
+	border-radius:15px;
+}
+#registerbt {
+    background-color:#ffffff;
+    width:400px;
+    margin-top:15px;
+    -webkit-border-radius:15px;
+    -moz-border-radius:15px;
+	border-radius:15px;
+    min-height: 50px;
+}
+.link {
+    text-decoration:none;
+    color:#168CCC;
+    font-weight:bold;
+}
+.link:hover {
+    text-decoration:underline;	
+}
