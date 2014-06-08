@@ -1,13 +1,15 @@
 <?php
 include_once("php_includes/check_login_status.php");
 // If user is already logged in, header that weenis away
-if($user_ok == true){
+if($user_ok == true)
+{
 	header("location: user.php?u=".$_SESSION["username"]);
     exit();
 }
 ?><?php
 // AJAX CALLS THIS LOGIN CODE TO EXECUTE
-if(isset($_POST["e"])){
+if(isset($_POST["e"]))
+{
 	// CONNECT TO THE DATABASE
 	include_once("php_includes/db_conx.php");
 	// GATHER THE POSTED DATA INTO LOCAL VARIABLES AND SANITIZE
@@ -16,7 +18,8 @@ if(isset($_POST["e"])){
 	// GET USER IP ADDRESS
     $ip = preg_replace('#[^0-9.]#', '', getenv('REMOTE_ADDR'));
 	// FORM DATA ERROR HANDLING
-	if($e == "" || $p == ""){
+	if($e == "" || $p == "")
+	{
 		echo "login_failed";
         exit();
 	} else {
